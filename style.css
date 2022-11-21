@@ -1,0 +1,19 @@
+
+
+body{ 
+ margin:0px;  
+  border-style: solid;  
+  border-color: darkblue;  
+  border-width:3px;   
+  border: purple 7px ridge; 
+  border-color: purple violet;  
+  border-top-color: darkblue;  }
+} 
+header{  
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+  letter-spacing: 3px;   
+}  
+h1{ 
+   margin:0px; 
+   text-transform: uppercase;
+} 
